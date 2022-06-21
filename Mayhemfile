@@ -1,6 +1,5 @@
 project: pycdc
 target: pycdc
-image: ghcr.io/rnshah9/playground:pycdc
 
 cmds:
   - cmd: /repo/build/pycdc @@
