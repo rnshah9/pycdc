@@ -2,4 +2,4 @@ project: pycdc
 target: pycdc
 
 cmds:
-  - cmd: /repo/build/pycdc @@
+  - cmd: /install/bin/pycdc @@
