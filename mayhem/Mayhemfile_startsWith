@@ -1,0 +1,6 @@
+project: pycdc
+target: startswith
+
+cmds:
+  - cmd: /fuzz
+    libfuzzer: true
