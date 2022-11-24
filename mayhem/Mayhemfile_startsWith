@@ -2,5 +2,5 @@ project: pycdc
 target: startswith
 
 cmds:
-  - cmd: /fuzz
+  - cmd: /fuzz_startsWith
     libfuzzer: true
